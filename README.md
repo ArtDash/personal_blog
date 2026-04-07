@@ -12,7 +12,7 @@ I use it to:
 * connect ideas through links
 * publish everything as a static website
 
-🔗 Документация оригинального проекта: https://quartz.jzhao.xyz/
+🔗 Documentation of original project: https://quartz.jzhao.xyz/
 
 ---
 
@@ -26,4 +26,4 @@ I use it to:
 * связывать идеи ссылками
 * публиковать всё как статический сайт
 
-🔗 Documentation of original project: https://quartz.jzhao.xyz/
+🔗 Документация оригинального проекта: https://quartz.jzhao.xyz/
